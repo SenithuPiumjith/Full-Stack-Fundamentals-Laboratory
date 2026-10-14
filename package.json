@@ -1,0 +1,24 @@
+{
+  "name": "full-stack-fundamentals-laboratory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SenithuPiumjith/Full-Stack-Fundamentals-Laboratory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SenithuPiumjith/Full-Stack-Fundamentals-Laboratory/issues"
+  },
+  "homepage": "https://github.com/SenithuPiumjith/Full-Stack-Fundamentals-Laboratory#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}

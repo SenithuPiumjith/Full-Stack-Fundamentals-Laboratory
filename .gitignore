@@ -1,9 +1,6 @@
-# Ignore the bulky dependencies folder
 node_modules/
 
-# Ignore local environment configuration files
 .env
 
-# Ignore system files
 .DS_Store
 Thumbs.db
